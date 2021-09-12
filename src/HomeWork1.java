@@ -16,7 +16,6 @@ class HomeWork1 {
         compareNumber();
     }
 
-
     static int checkSumSign(int a, int b) {
         return a + b;
     }
