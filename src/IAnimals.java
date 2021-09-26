@@ -1,4 +1,5 @@
-interface IAnimals {
+interface IAnimals{
     void run();
+
     void swim();
 }

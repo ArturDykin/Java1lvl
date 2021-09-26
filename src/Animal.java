@@ -8,7 +8,7 @@
 abstract class Animal implements IAnimals{
     protected int distanceLength, swimLength;
 
-    Animal (int distanceLength, int swimLength){
+    Animal(int distanceLength, int swimLength) {
         this.distanceLength = distanceLength;
         this.swimLength = swimLength;
     }

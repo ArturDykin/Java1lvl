@@ -39,4 +39,5 @@ class HomeWork1 {
         int b1 = 5;
         System.out.println(a1 >= b1 ? "a1 >= b1" : "a1 < b1");
     }
+
 }

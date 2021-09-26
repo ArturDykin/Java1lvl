@@ -1,5 +1,5 @@
 class AnimalsDate{
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Dog dog = new Dog(500, 10);
         Cat cat = new Cat(300, 10);
 
